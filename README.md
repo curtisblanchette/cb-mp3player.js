@@ -27,7 +27,7 @@ Create the canvas tag
 	<li>Open cb-mp3player.js to update links to your mp3s and artwork.</li>
 </ol>
 
-Update the songlist and album list arrays accordingly. 
+Update the <strong>songList</strong> and <strong>albumList</strong> arrays accordingly. 
 
 ```javascript
 		songList = [
