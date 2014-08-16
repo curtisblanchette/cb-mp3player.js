@@ -3,7 +3,7 @@ Canvas-mp3player
 
 HTML5 Canvas mp3 player.
 
-**Requires jQuery1.10.1+, create.js
+**Requires <strong>jQuery1.10.1+</strong> and <strong>create.js</strong>
 
 Include cb-mp3player.js after jQuery and createjs
 
@@ -13,6 +13,12 @@ Include cb-mp3player.js after jQuery and createjs
 <script src="http://code.createjs.com/createjs-2013.12.12.min.js"></script>
 <script src="cb-mp3player.js"></script>
 
+```
+Create the canvas tag
+```html
+<canvas id="canvas" width="400" height="200">
+	You don't support canvas, you should upgrade your browser to Chrome.
+</canvas>
 ```
 <h3>Using your own music</h3>
 <h5>Steps</h5>
