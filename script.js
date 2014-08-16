@@ -12,7 +12,6 @@ $( document ).ready(function() {
 		//on resize, update the window height, and insert into container height
 		$( window ).resize(function() {
   		var $windowH = $(window).height();
-
 			$container.height($windowH);
 		});
 });

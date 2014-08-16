@@ -97,7 +97,7 @@
 			[
 				{id:'playBTN', src:'player-assets/playBTN.png'},
 				{id:'pauseBTN', src:'player-assets/pauseBTN.png'},
-				{id:'stopBTN', src:'mp3player-assets/Stop.png'},
+				{id:'stopBTN', src:'player-assets/Stop.png'},
 				{id:'nextBTN', src:'player-assets/nextBTN.png'},
 				{id:'prevBTN', src:'player-assets/prevBTN.png'},
 				{id:'colorLeft', src:'player-assets/colorLeft.png'},
