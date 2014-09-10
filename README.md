@@ -5,7 +5,7 @@ HTML5 Canvas mp3 player.
 
 **Requires <strong>jQuery1.10.1+</strong> and <strong>create.js</strong>
 
-<a href="https://rawgit.com/curtisblanchette/cb-mp3player.js/master/example.html">Did you say DEMO?</a>
+<a href="http://webdesignstudio.ca/github/cbslider/example.html">Did you say DEMO?</a>
 Include cb-mp3player.js after jQuery and createjs
 
 ```html
